@@ -1,4 +1,4 @@
-![Cleansweep Logo](https://ibb.co/vB4BQQ8)
+![Cleansweep Logo](https://i.ibb.co/ky2y99F/Untitled-design.png)
 
 # Cleansweep
 
