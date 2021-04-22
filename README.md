@@ -13,6 +13,7 @@ Cleansweep detects any download or file creation into your `Downloads` folder an
 ```bash
 git clone https://github.com/IQUBE-X/cleansweep.git
 cd cleansweep
+chmod +x build.sh
 ./build.sh
 ```
 
